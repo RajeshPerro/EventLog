@@ -1,0 +1,55 @@
+#####.Student Information For :1234.#####
+Name : Rajesh Ghosh
+EMail : rajesh@email.com
+ID : 1234
+#####.END of Student Information.#####
+#####.Student Information For :0.#####
+Name : Rajesh
+E-Mail : test@email.com
+ID : 0
+#####.END of Student Information.#####
+#####.Student Information For :234.#####
+Name : Rajesh
+E-Mail : raj
+ID : 234
+#####.END of Student Information.#####
+#####.Student Information For :121.#####
+Name : rrr
+E-Mail : rere
+ID : 121
+#####.END of Student Information.#####
+#####.Student Information For :1234.#####
+Name : trtr
+E-Mail : rere
+ID : 1234
+#####.END of Student Information.#####
+#####.Student Information For :0.#####
+Name : Rajesh
+E-Mail : qwerty
+ID : 0
+#####.END of Student Information.#####
+#####.Student Information For :0.#####
+Name : erere
+E-Mail : qwert
+ID : 0
+#####.END of Student Information.#####
+#####.Student Information For :123456.#####
+Name : Rajesh Ghosh
+E-Mail : rajesh@coderstrust.com
+ID : 123456
+#####.END of Student Information.#####
+#####.Student Information For :121.#####
+Name : wew
+E-Mail : wew
+ID : 121
+#####.END of Student Information.#####
+#####.Student Information For :0.#####
+Name : raj
+E-Mail : sdsd
+ID : 0
+#####.END of Student Information.#####
+#####.Student Information For :10101.#####
+Name : Rajesh Ghosh
+E-Mail : rajeshghosh@gmail.com
+ID : 10101
+#####.END of Student Information.#####
